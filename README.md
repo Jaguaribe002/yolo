@@ -2,7 +2,7 @@
 
 Using YOLO v8 to detect vehicles in images
 
-** Classes used:
+## Classes used:
 - Car
 - Motorcycle
 - Airplane
